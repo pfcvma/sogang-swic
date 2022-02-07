@@ -3,4 +3,4 @@
 
 Link: https://sogang-swic.github.io/sogang-swic/
 
-Developed by **Jawon Lee**, Github ID : [`pfcvma`](https://github.com/pfcvma)
+Developed by **Jawon Lee** (Github ID : [`pfcvma`](https://github.com/pfcvma))
