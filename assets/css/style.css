@@ -475,9 +475,10 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.about .content h3 {
+.about h3 {
   font-weight: 700;
-  font-size: 28px;
+  font-size: 36px;
+  color: #151515;
   font-family: "Poppins", sans-serif;
 }
 .about .content ul {
@@ -534,6 +535,13 @@ section {
 --------------------------------------------------------------*/
 .features {
   padding-top: 20px;
+}
+.features h3 {
+  font-weight: 700;
+  color: #151515;
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  /* Raleway / Poppins */
 }
 .features .icon-box {
   padding-left: 15px;
@@ -1344,4 +1352,10 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+#footer .contactmail {
+  padding-top: 7px;
+  text-align: center;
+  font-size: 11px;
+  color:rgb(156, 156, 156);
 }
