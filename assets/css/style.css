@@ -828,6 +828,7 @@ section {
   margin-bottom: 0;
 }
 .counts .content a {
+  text-decoration: underline;
   color: #3b3b3b;
 }
 .counts .content a:hover {
@@ -1054,6 +1055,10 @@ section {
 .team .member:hover .social {
   opacity: 1;
   bottom: 15px;
+}
+.team .member .member-info a {
+  text-decoration: underline;
+  color: #aaaaaa;
 }
 .team .member .member-info a:hover {
   text-decoration: underline;
