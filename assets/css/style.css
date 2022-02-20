@@ -827,6 +827,13 @@ section {
 .counts .content p {
   margin-bottom: 0;
 }
+.counts .content a {
+  color: #3b3b3b;
+}
+.counts .content a:hover {
+  text-decoration: underline;
+  color: #3b3b3b;
+}
 .counts .content .count-box {
   padding: 20px 0;
   width: 100%;
@@ -852,7 +859,7 @@ section {
   font-size: 14px;
   color: #3b3b3b;
 }
-.counts .content .count-box a {
+/* .counts .content .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
@@ -863,7 +870,7 @@ section {
 }
 .counts .content .count-box a:hover {
   color: #626262;
-}
+} */
 .counts .image {
   background: url("../img/counts-img.jpg") center center no-repeat;
   background-size: cover;
