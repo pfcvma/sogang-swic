@@ -1048,6 +1048,10 @@ section {
   opacity: 1;
   bottom: 15px;
 }
+.team .member .member-info a:hover {
+  text-decoration: underline;
+  color: #aaaaaa;
+}
 
 /*--------------------------------------------------------------
 # Contact
@@ -1059,6 +1063,9 @@ section {
 .contact .info a {
   color : #484848;
   text-decoration: none;
+}
+.contact .info a:hover {
+  text-decoration: underline;
 }
 .contact .info i {
   font-size: 20px;
