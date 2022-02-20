@@ -2,6 +2,6 @@
 
 > 서강대학교 투자학회 SWIC 공식 홈페이지
 
-**Link**: https://sogang-swic.github.io/sogang-swic/
+**Link**: http://sgswic.com/
 
 Developed by **Jawon Lee** (Github ID : [`pfcvma`](https://github.com/pfcvma))
