@@ -1,6 +1,6 @@
 # SWIC (Sogang Wise Investment Club) Official Website
 
-> 서강대학교 금융학회 SWIC 공식 홈페이지
+> 서강대학교 금융학회 SWIC 공식 홈페이지 (1인 개발)
 
 **Link**: http://sgswic.com/
 
